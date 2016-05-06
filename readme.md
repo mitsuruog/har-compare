@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save har-compare
+$ npm install --save mitsuruog/har-compare
 ```
 
 
@@ -37,7 +37,7 @@ The file path to be compared.
 ## CLI
 
 ```
-$ npm install --global har-compare
+$ npm install --global mitsuruog/har-compare
 ```
 
 ```
